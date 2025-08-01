@@ -1,0 +1,6 @@
+Eletronics,1000
+Clothes,150
+Eletronics,1000
+Food,100
+Clothes,200
+Eletronics,1000
